@@ -1,2 +1,1 @@
 # PrimoEsameSettimanale
-Esercia
